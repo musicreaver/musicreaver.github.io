@@ -1,6 +1,7 @@
 # musicreaver
 ## About me 
 31 ~ He⁄Him ~ happily married ~ Bi/demi
+
 Things that I enjoy doing:
 
 Volunteering for the Charity Team with Furality, learning new skills, spending time with friends in VR, playing video games, listening to audiobooks, cooking, and helping people navigate through life easier.
