@@ -3,7 +3,7 @@ FauxFire
  </h1>
 
 <h1 style="text-align: center;">
-## [Find Me]([[https://t.me/djfauxfire](https://linktr.ee/djfauxfire)](https://linktr.ee/djfauxfire))
+## [Find Me](https://linktr.ee/djfauxfire?utm_source=linktree_profile_share&ltsid=0494e94a-d2cb-460b-b3b8-a2e4503e5e66)
 </h1>
 
 <h1 style="text-align: center;color:#b55832;">
