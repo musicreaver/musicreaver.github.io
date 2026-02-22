@@ -21,7 +21,7 @@ Taiyuki
  </h1>
 ![Sona](https://github.com/musicreaver/musicreaver.github.io/assets/135992992/7ba3bb5b-32ea-43fb-8b00-e04397d29df5)
 
-<p style="text-align: center;"><h1>
+<h1 style="text-align: center;">
 Hiyuki
- </h1> </p>
+ </h1>
 ![Sona](https://raw.githubusercontent.com/musicreaver/musicreaver.github.io/refs/heads/main/alolan_ninetales_arcanine_wtxt.webp)
