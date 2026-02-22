@@ -11,23 +11,16 @@ References
  </h1>
 
 <h1 style="text-align: center;color:#b55832;">
-Taiyuki
+<a href="templink">Taiyuki</a>
  </h1>
 
 ![Sona](Sona ref sheet.png)
 
-<h1 style="text-align: center;">
-<a href="templink">More Taiyuki Art</a>
- </h1>
-
 <h1 style="text-align: center;color:#3a3581;">
-Hiyuki
+<a href="templink">Hiyuki</a>
  </h1>
 ![Sona](https://raw.githubusercontent.com/musicreaver/musicreaver.github.io/refs/heads/main/alolan_ninetales_arcanine_wtxt.webp)
 
-<h1 style="text-align: center;">
-<a href="templink">More Hiyuki Art</a>
- </h1>
 
 
 <!-- 
