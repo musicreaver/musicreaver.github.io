@@ -22,7 +22,7 @@ Stoat: DJFauxFire#5991
 <h1 style="text-align: center;color:#b55832;">
 Taiyuki
  </h1>
-![Sona](https://github.com/musicreaver/musicreaver.github.io/assets/135992992/7ba3bb5b-32ea-43fb-8b00-e04397d29df5)
+![Sona]([https://github.com/musicreaver/musicreaver.github.io/assets/135992992/7ba3bb5b-32ea-43fb-8b00-e04397d29df5](https://github.com/musicreaver/musicreaver.github.io/blob/main/Sona%20ref%20sheet.png))
 
 <h1 style="text-align: center;color:#3a3581;">
 Hiyuki
