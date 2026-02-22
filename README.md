@@ -6,7 +6,7 @@ FauxFire
 <a href="https://linktr.ee/djfauxfire">Find Me</a>
  </h1>
 
-<h1 style="text-align: center;color:#b55832;">
+<h1 style="text-align: center;">
 References
  </h1>
 
