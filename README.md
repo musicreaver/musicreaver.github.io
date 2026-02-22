@@ -11,7 +11,7 @@ Character Reference Sheets
  </h1>
 
 <h1 style="text-align: center;color:#b55832;">
-<a href="templink">Taiyuki</a>
+<a href="Combined Taiyuki art">Taiyuki</a>
  </h1>
 
 ![Sona](Sona ref sheet.png)
