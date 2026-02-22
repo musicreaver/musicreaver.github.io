@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-#FauxFire
+FauxFire
  </h1>
 
 ## About me 
