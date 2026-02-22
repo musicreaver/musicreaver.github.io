@@ -2,9 +2,7 @@
 FauxFire
  </h1>
 
-<h1 style="text-align: center;color:#b55832;">
-## [Find Me]([https://t.me/djfauxfire](https://linktr.ee/djfauxfire))
- </h1>
+[Find Me]([https://t.me/djfauxfire](https://linktr.ee/djfauxfire))
 
 <h1 style="text-align: center;color:#b55832;">
 References
