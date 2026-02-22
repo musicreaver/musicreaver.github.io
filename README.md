@@ -7,7 +7,7 @@ FauxFire
  </h1>
 
 <h1 style="text-align: center;">
-References
+Character Reference Sheets
  </h1>
 
 <h1 style="text-align: center;color:#b55832;">
