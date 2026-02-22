@@ -11,19 +11,24 @@ Character Reference Sheets
  </h1>
 
 <h1 style="text-align: center;color:#b55832;">
-<a href="Combined Taiyuki art">Taiyuki</a>
+Taiyuki
  </h1>
 
 ![Sona](Sona ref sheet.png)
 
 <h1 style="text-align: center;color:#3a3581;">
-<a href="templink">Hiyuki</a>
+Hiyuki
  </h1>
 ![Sona](https://raw.githubusercontent.com/musicreaver/musicreaver.github.io/refs/heads/main/alolan_ninetales_arcanine_wtxt.webp)
 
 
 
 <!-- 
+
+<h1 style="text-align: center;color:#b55832;">
+<a href="temp link">Taiyuki</a>
+ </h1>
+
 
 ## About me 
 33 ~ it/its ~ happily married ~ Bisexual ~ Kitsune
