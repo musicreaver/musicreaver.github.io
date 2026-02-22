@@ -3,7 +3,8 @@ FauxFire
  </h1>
 
 <h1 style="text-align: center;">
-[Find Me](https://linktr.ee/djfauxfire)
+<a href="https://linktr.ee/djfauxfire">Find Me</a>
+ [Find Me](https://linktr.ee/djfauxfire)
  </h1>
 
 <h1 style="text-align: center;color:#b55832;">
