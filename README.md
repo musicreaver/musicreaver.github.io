@@ -25,6 +25,9 @@ Hiyuki
  </h1>
 ![Sona](https://raw.githubusercontent.com/musicreaver/musicreaver.github.io/refs/heads/main/alolan_ninetales_arcanine_wtxt.webp)
 
+<h1 style="text-align: center;">
+<a href="templink">More Hiyuki Art</a>
+ </h1>
 
 
 <!-- 
