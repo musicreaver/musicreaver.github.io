@@ -1,4 +1,7 @@
-# FauxFire
+# <h1 style="text-align: center;">
+FauxFire
+ </h1>
+
 ## About me 
 33 ~ it/its ~ happily married ~ Bisexual ~ Kitsune
 
