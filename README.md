@@ -9,7 +9,7 @@ FauxFire
 
 Charity Director for Multiversecon, Outreach staff FWA, learning new skills, spending time with friends in VR, social gaming, audiobooks, cooking, and building community.
 
-## Places you can find me
+## [Find me Here!](https://linktr.ee/djfauxfire)
 Discord: xenophoenix
 
 Element: @fauxfire:matrix.org
