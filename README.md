@@ -17,7 +17,7 @@ Stoat: DJFauxFire#5991
 
 ## Reference
 <p style="text-align: center;">
-#Taiyuki
+# Taiyuki
   </p>
 ![Sona](https://github.com/musicreaver/musicreaver.github.io/assets/135992992/7ba3bb5b-32ea-43fb-8b00-e04397d29df5)
 
