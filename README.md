@@ -17,7 +17,7 @@ Taiyuki
 ![Sona](Sona ref sheet.png)
 
 <h1 style="text-align: center;">
-## [More Taiyuki Refs](temp link))
+<a href="templink">More Taiyuki Art</a>
  </h1>
 
 <h1 style="text-align: center;color:#3a3581;">
