@@ -8,8 +8,6 @@ FauxFire
   <li>Discord: xenophoenix</li>
   <li>Element/Matrix: @fauxfire:matrix.org</li>
   <li>Stoat: DJFauxFire#5991</li>
-  <li>[Telegram](https://t.me/djfauxfire)</li>
-  <li>[Linktree](https://linktr.ee/djfauxfire))</li>
 
 </ul>
 
